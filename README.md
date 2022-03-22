@@ -2,12 +2,6 @@
 
 This is the first file in theis repo.
 
-## Ipsum Below
+## Website contents
 
-hgksjldfn sdfhg;sldkfg  dfshgsldfkj sdfhguhsdf 
-
-##;ajsdjniohaso
-gsdgds
-asgasdg
-asgasdg
-asdgasdg
+1. index.html
